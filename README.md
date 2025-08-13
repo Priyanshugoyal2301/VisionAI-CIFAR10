@@ -24,4 +24,4 @@ This project trains a CNN and a transfer learning model (MobileNetV2) to classif
 3. Run all cells.
 
 ## Example Output
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](https://github.com/Priyanshugoyal2301/VisionAI-CIFAR10/blob/main/Confusion%20Matrix.jpg)
